@@ -1,0 +1,20 @@
+Name: Fatomi Abdulrahmon Olaitan
+
+---------------------------------------------------------ASSIGNMENT----------------------------------------------------------------
+What I learnt today: 
+1. The importance and different between git and github.
+
+2. How to initialize a git repository by using git init
+
+3. Tracking Changes with git add, to add all files (git add .)
+
+4. How to commit my changes with the use of git commit -m "commit message".
+
+5. How to check my git commit history using git log.
+
+6. How to add my files to a remote repository using git add remote origin <the link to the repository>
+
+6. How to push my changes to the remote repository added using git push origin <name of the branch i want to push to>
+
+7. How to pull changes from a repository using git pull origin <the name of the branch i wan to pull from>
+
